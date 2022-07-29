@@ -1,3 +1,5 @@
+// actions.ts/ index.ts/ reducer.ts/ types.td
+
 // 액션 타입 선언, 액션 생성 함수, 초기값, 리듀서
 // 할 일 추가, 할 일 제거, 할 일 체크
 
