@@ -21,7 +21,7 @@ const GithubProfileLoader = () => {
             {error && <p>에러발생...</p>}
             {data && <GithubProfileInfo bio={data.bio} 
             blog={data.blog}
-            name={data.name}
+            name={data.login}
             thumbnail={data.avatar_url}/>}
         </>
     );
